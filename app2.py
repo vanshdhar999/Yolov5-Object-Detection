@@ -42,8 +42,7 @@ if choice == 'Process':
         with open("./images/test.jpg", "wb") as f:
             f.write(file.getbuffer())
     if st.button('Run Model'):
-        print(f'input file: {file}')
-        model.run('../images/test.jpg')
+        model.run()
 
 if choice == 'Download':
     pass
