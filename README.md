@@ -25,3 +25,4 @@ streamlit run app.py
 The web application is hosted on your local server and you can view it in your default web browser. 
 
 
+
