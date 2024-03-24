@@ -6,8 +6,10 @@ This GitHub repo contains the interactive web application built using streamlit 
 ## Setup
 Install the required dependicies using the following commands 
 ``` bash 
-pip install streamlit```
+pip install streamlit
+```
 ``` bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+ ```
 
 
