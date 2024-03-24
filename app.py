@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2 as cv
 import os
 import sys
 # Add the project root directory to the Python path
